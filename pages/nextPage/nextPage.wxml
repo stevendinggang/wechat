@@ -1,0 +1,13 @@
+<!--pages/nextPage.wxml-->
+<view class='container'>
+<view>我超开心的~~~</view>
+    <image class='mianImage' src='http://wx4.sinaimg.cn/mw690/006HJgYYgy1frzm3x5ukug308c08c0u5.gif'></image>
+    <image class='mianImage' src='http://wx4.sinaimg.cn/mw690/006HJgYYgy1frzm3xou6jg308c08ct9q.gif'></image>
+    <image class='mianImage' src='http://wx4.sinaimg.cn/mw690/006HJgYYgy1frzm3yhn2yg308c08cmy3.gif'></image>
+    <image class='mianImage' src='http://wx4.sinaimg.cn/mw690/006HJgYYgy1frzm3z0lpbg308c08c75r.gif'></image>
+    <image class='mianImage' src='http://wx4.sinaimg.cn/mw690/006HJgYYgy1frzm3zh1w2g308c08ctbb.gif'></image>
+    <image class='mianImage' src='http://wx4.sinaimg.cn/mw690/006HJgYYgy1frzm3wdo1ag308c08cwfh.gif'></image>
+    <image class='mianImage' src='http://wx4.sinaimg.cn/mw690/006HJgYYgy1frzm3zvoazg308c08ct9q.gif'></image>
+    <image class='mianImage' src='http://wx4.sinaimg.cn/mw690/006HJgYYgy1frzm40c5nag308c08ctbt.gif'></image>
+    <image class='mianImage' src='http://wx4.sinaimg.cn/mw690/006HJgYYgy1frzm40st76g308c08ctbb.gif'></image>
+</view>

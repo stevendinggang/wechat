@@ -1,0 +1,75 @@
+/**index.wxss**/
+
+
+.container{
+  /* display: flex; */
+  /* justify-content: flex-start; */
+  padding-top: 0rpx; 
+  position: relative;
+  height: 100%;
+}
+
+.topTitle{
+  margin-top: 50rpx;
+  font-style: normal;
+  font-size: 11px;
+  text-align: left;
+  top: 30rpx;
+}
+
+.nextTitle{
+  margin-top: 20rpx;
+  font-size: 30px;
+  text-align: left;
+}
+
+.mianImage{
+  margin-top: 80rpx;
+  width: 12rem;
+  height: 14rem; 
+}
+
+.bottomView{
+  margin-top: 90rpx;
+  display: flex;
+  flex-direction: row;
+  flex:1;
+  justify-content: space-between;
+  position: flex;
+  /* height: 80rpx; */
+}
+
+
+.rightBtn{
+   width: 260rpx;
+   margin-left: 50rpx;
+   /* height: 90rpx;  */
+   /* order:-1; */
+}
+
+.leftBtn{
+   width: 260rpx;
+   /* height: 90rpx; */
+}
+
+.hiddenBtn{
+   width: 0px;
+   height: 0px;
+}
+
+.centerBtn{
+   align-content: center;
+   width: 260rpx;
+}
+
+
+
+
+
+
+
+
+
+
+
+

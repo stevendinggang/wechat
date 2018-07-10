@@ -1,0 +1,17 @@
+/* pages/nextPage.wxss */
+
+.container{
+  /* background-color: rebeccapurple; */
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+  /* align-content: center; */
+  /* height: 25rem; */
+  padding-top: 0px;
+}
+
+.mianImage{
+  width: 120px;
+  height: 120px;
+}

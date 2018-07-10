@@ -1,0 +1,13 @@
+<!--index.wxml-->
+<view class="container">
+  <text class='topTitle'>"小姐姐，我观察你很久了"</text>
+  <text class='nextTitle'>"做我女朋友好不好?"</text>
+  <image class='mianImage' src='/assets/WechatIMG4.jpeg'></image>
+  <view class='bottomView'>
+    <button class="{{hiddenBtn?'centerBtn':'leftBtn'}}" bindtap='leftClick'type="primary" > 好 </button>
+
+    <button class="{{hiddenBtn?'hiddenBtn':'rightBtn'}}" type="warn"  bindtap='rightClick'> 不好 </button>
+  </view>
+
+
+</view>
